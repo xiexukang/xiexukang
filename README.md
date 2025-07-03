@@ -1,4 +1,4 @@
 - 👋 Hi, I'm xxk
 - 🚀 Seasoned Speech Technology Researcher with several years of industry experience
 - 🔬 Currently advancing research in ASR, TTS, and Multimodal Large Language Models
-- 📫 Contact: 1391963397@qq.com | Papers/Codes coming soon!
+- 📫 Contact: 1391963397@qq.com
